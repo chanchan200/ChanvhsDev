@@ -8,10 +8,15 @@
 
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind" />
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind" /> 
+</div> 
+
 
 #### Creative Stack
+<div align="center">
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae" />
+</div>
 
 ---
 
