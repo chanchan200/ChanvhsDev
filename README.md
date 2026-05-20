@@ -7,8 +7,7 @@
 </div>
 
 
-### Tech Stack
-
+### Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind" />
 
 #### Creative Stack
